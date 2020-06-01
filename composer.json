@@ -14,7 +14,6 @@
     "php": ">=7.0.0"
   },
   "autoload-dev": {
-    "classmap": ["tests/TestCase.php"],
     "psr-4": {
       "HosseinSheikh\\Test\\": "tests/"
     }
