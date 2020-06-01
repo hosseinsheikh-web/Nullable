@@ -2,9 +2,8 @@
 
 namespace Nullable;
 
-use Tests\TestCase;
 
-class NullableTest extends TestCase
+class NullableTest extends Orchestra\Testbench\TestCase
 {
     /**
      * @test
