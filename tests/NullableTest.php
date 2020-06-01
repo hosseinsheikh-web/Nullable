@@ -1,6 +1,6 @@
 <?php
 
-namespace Nullable;
+namespace HosseinSheikh\Test;
 
 
 class NullableTest extends Orchestra\Testbench\TestCase
